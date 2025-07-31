@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1419c52f-fea6-43d5-819a-d9dfb3c2aadb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prime_factors.py" beforeDir="false" afterPath="$PROJECT_DIR$/prime_factors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_prime_factors.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_prime_factors.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +49,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests for test_prime_factors.test_prime_factor_of_1.executor": "Run",
+    "Python tests.Python tests for test_prime_factors.test_prime_factor_of_3.executor": "Run",
     "Python tests.Python tests in test_prime_factors.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
